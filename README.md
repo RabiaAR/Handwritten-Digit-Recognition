@@ -9,4 +9,3 @@ This project implements a handwritten digit recognition system using a neural ne
 - **Evaluation**: Test the model on the test dataset and achieve high accuracy.
 - **User Interface**: An interactive interface allowing users to draw digits and receive predictions in real-time.
 
-## Requirements
